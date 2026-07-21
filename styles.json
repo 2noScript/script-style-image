@@ -293,5 +293,195 @@
       "enhancement": "retrowave grid landscape, glowing cyber sun scenery, wireframe mountains backdrop",
       "suffix": "retrowave landscape environment, neon sun backdrop"
     }
+  },
+  {
+    "key": "anime-cel-shading",
+    "name": "Anime Cel Shading",
+    "description": "Vibrant japanese anime style, clean lineart, soft cel shading, cinematic atmospheric lighting, Studio Ghibli & Shinkai inspired.",
+    "previewImage": "images/anime-cel-shading/cover.jpg",
+    "basePrompt": "vibrant anime illustration style, clean crisp line art, soft cel shading, cinematic lighting, Makoto Shinkai sky texture, Studio Ghibli anime aesthetic",
+    "character": {
+      "enhancement": "expressive anime character portrait, clean anime eyes, detailed anime hair and outfit",
+      "suffix": "anime character design sheet, clean studio background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "detailed anime prop asset, clean anime line art, soft cel shaded highlights",
+      "suffix": "clean background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "scenic anime landscape environment, painterly sky with fluffy clouds, cinematic anime background scenery",
+      "suffix": "detailed anime background scene, anime aesthetic scenery"
+    }
+  },
+  {
+    "key": "steampunk-vintage",
+    "name": "Victorian Steampunk",
+    "description": "19th century industrial steampunk, brass gears, steam copper pipes, polished leather, and warm vintage sepia tones.",
+    "previewImage": "images/steampunk-vintage/cover.jpg",
+    "basePrompt": "victorian steampunk aesthetic, intricate brass gears and copper steam pipes, antique leather textures, atmospheric steam, warm sepia lighting",
+    "character": {
+      "enhancement": "steampunk character outfit, brass goggles, leather harness, expressive victorian face",
+      "suffix": "steampunk character turnaround, workshop backdrop, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "intricate steampunk machine prop, polished brass clockwork gears, copper steam valves",
+      "suffix": "workshop background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "smoky victorian steampunk city street, brass architecture, steam powered machinery, dramatic sunset lighting",
+      "suffix": "steampunk city environment, industrial victorian backdrop"
+    }
+  },
+  {
+    "key": "stained-glass",
+    "name": "Cathedral Stained Glass",
+    "description": "Gothic cathedral stained glass window style with glowing glass panels, dark lead metal outlines, and rich jewel colors.",
+    "previewImage": "images/stained-glass/cover.jpg",
+    "basePrompt": "stained glass window art style, thick dark lead outlines, luminous glowing glass panels, vibrant jewel color palette, backlit cathedral light",
+    "character": {
+      "enhancement": "stained glass character mosaic, glowing glass face, intricate lead metal lines",
+      "suffix": "stained glass character art, leaded glass background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "stained glass prop mosaic, luminous glass panels, dark metal wire outlines",
+      "suffix": "leaded glass background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "gothic cathedral stained glass window scene, radiant sun rays passing through colored glass, architectural glass mosaic",
+      "suffix": "cathedral stained glass scenery, luminous glass backdrop"
+    }
+  },
+  {
+    "key": "paper-cutout-3d",
+    "name": "Layered Paper Cutout",
+    "description": "Multi-layered paper cutout art, 3D papercraft depth, soft volumetric shadows, clean pastel colors.",
+    "previewImage": "images/paper-cutout-3d/cover.jpg",
+    "basePrompt": "layered paper cutout 3D style, multi-tier papercraft depth, soft directional shadows, clean paper texture, minimalist color aesthetic",
+    "character": {
+      "enhancement": "layered paper cutout character silhouette, clean paper craft edges, distinct shadow layers",
+      "suffix": "paper cutout character model, solid paper background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "paper cutout prop asset, multi-layer paper depth, clean papercraft folds",
+      "suffix": "solid paper background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "layered paper cutout landscape backdrop, multi-plane paper scenery, soft shadow depth",
+      "suffix": "paper cutout environment, 3D papercraft scenery"
+    }
+  },
+  {
+    "key": "cyberpunk-hologram",
+    "name": "Digital Hologram Matrix",
+    "description": "Glowing cyan holographic projection, semi-transparent matrix glitch grid, digital scanlines, futuristic UI.",
+    "previewImage": "images/cyberpunk-hologram/cover.jpg",
+    "basePrompt": "cybernetic holographic projection, semi-transparent cyan glowing hologram, digital glitch matrix scanlines, futuristic sci-fi HUD display",
+    "character": {
+      "enhancement": "holographic character projection, glowing cyan matrix wireframe, transparent digital silhouette",
+      "suffix": "hologram character display, dark grid backdrop, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "holographic prop projection, digital wireframe schematic, cyan scanline glow",
+      "suffix": "dark grid backdrop, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "futuristic hologram environment, matrix glitch digital grid, atmospheric holographic projection scenery",
+      "suffix": "holographic sci-fi environment, digital matrix backdrop"
+    }
+  },
+  {
+    "key": "chalkboard-sketch",
+    "name": "Pastel Chalkboard Art",
+    "description": "White and pastel chalk drawings on dark dusty black chalkboard texture, hand-drawn educational art.",
+    "previewImage": "images/chalkboard-sketch/cover.jpg",
+    "basePrompt": "chalkboard drawing style, white and colored pastel chalk, dusty black slate chalkboard texture, hand-drawn educational chalk art",
+    "character": {
+      "enhancement": "chalk drawn character sketch, powdery chalk shading, expressive chalk facial features",
+      "suffix": "chalkboard character drawing, clean slate background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "chalk prop drawing, detailed chalk hatching, powdery slate texture",
+      "suffix": "clean slate background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "chalkboard landscape drawing, dusty chalk scenery, detailed chalk line background",
+      "suffix": "chalkboard environment, educational chalk backdrop"
+    }
+  },
+  {
+    "key": "chibi-kawaii-3d",
+    "name": "Chibi Kawaii 3D",
+    "description": "Cute chibi proportions, large glossy eyes, soft pastel plastic toy materials, smooth 3D clay-toy render.",
+    "previewImage": "images/chibi-kawaii-3d/cover.jpg",
+    "basePrompt": "chibi kawaii 3D toy style, adorable cute mini proportions, large glossy expressive eyes, soft pastel color palette, smooth plastic vinyl render",
+    "character": {
+      "enhancement": "cute chibi character figure, big expressive eyes, round soft features, adorable outfit",
+      "suffix": "chibi character turnaround, clean pastel background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "cute chibi prop asset, rounded soft edges, glossy vinyl toy material",
+      "suffix": "clean pastel background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "cute pastel chibi landscape environment, miniature toy scenery, soft tilt-shift depth of field",
+      "suffix": "chibi toy environment scenery, cute pastel backdrop"
+    }
+  },
+  {
+    "key": "noir-film-monochrome",
+    "name": "1940s Noir Film",
+    "description": "High-contrast 1940s black & white film noir, dramatic Venetian blind shadows, moody atmospheric smoke and grain.",
+    "previewImage": "images/noir-film-monochrome/cover.jpg",
+    "basePrompt": "1940s black and white film noir style, extreme high contrast chiaroscuro lighting, dramatic shadow streaks, atmospheric cigarette smoke, vintage cinematic film grain",
+    "character": {
+      "enhancement": "film noir character portrait, dramatic shadow across face, classic 1940s trench coat and fedora",
+      "suffix": "noir character portrait, dark shadow backdrop, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "film noir prop asset, dramatic shadow lines, metallic monochrome reflections",
+      "suffix": "dark shadow backdrop, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "rain-slicked film noir alleyway, glowing street lamp in fog, dramatic shadow scenery, black and white cinema backdrop",
+      "suffix": "film noir city street scenery, moody noir backdrop"
+    }
+  },
+  {
+    "key": "stained-ink-tattoo",
+    "name": "Japanese Sumi-e Ink",
+    "description": "Traditional Japanese Sumi-e brush ink strokes, fluid black ink washes, woodblock print texture, red stamp accent.",
+    "previewImage": "images/stained-ink-tattoo/cover.jpg",
+    "basePrompt": "traditional Japanese Sumi-e ink painting, fluid black brush strokes, rice paper texture, japanese woodblock print aesthetic, subtle red ink stamp accent",
+    "character": {
+      "enhancement": "sumi-e ink character portrait, expressive brush line work, traditional japanese outfit",
+      "suffix": "sumi-e character painting, rice paper background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "sumi-e ink prop illustration, fluid ink wash, traditional japanese brush work",
+      "suffix": "rice paper background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "zen sumi-e landscape environment, misty mountains, ink wash cherry blossom scenery",
+      "suffix": "sumi-e landscape painting, traditional japanese backdrop"
+    }
+  },
+  {
+    "key": "low-poly-3d",
+    "name": "Low Poly Fantasy",
+    "description": "Geometric faceted low-poly 3D models, clean sharp edges, vibrant gradient lighting, modern indie game aesthetic.",
+    "previewImage": "images/low-poly-3d/cover.jpg",
+    "basePrompt": "low-poly 3D art style, geometric faceted polygon mesh, sharp clean edges, vibrant gradient lighting, modern indie video game aesthetic",
+    "character": {
+      "enhancement": "low-poly character model, faceted polygon mesh face and clothes, clean geometric silhouette",
+      "suffix": "low-poly character turnaround, clean geometric background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "low-poly prop asset, geometric polygon mesh, sharp low-poly edges",
+      "suffix": "clean geometric background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "low-poly fantasy landscape backdrop, geometric polygon mountains and trees, atmospheric low-poly scenery",
+      "suffix": "low-poly environment scenery, polygonal landscape backdrop"
+    }
   }
 ]
