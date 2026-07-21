@@ -3,20 +3,17 @@
     "key": "hand-drawn-stickman",
     "name": "Hand-drawn Stickman",
     "description": "Hand-drawn sketch colored with pencils, featuring imperfect sketchy outlines and realistic coloring textures.",
-    "previewImage": "images/hand-drawn-stickman/shot.jpg",
+    "previewImage": "images/hand-drawn-stickman/cover.jpg",
     "basePrompt": "authentic human hand-drawn illustration style, hand-drawn with colored pencils, visible colored pencil stroke texture, imperfect sketchy pencil outlines, colored with crayons and colored pencils, raw human-made doodle drawing, childlike colored pencil sketch",
     "character": {
-      "previewImage": "images/hand-drawn-stickman/character.jpg",
       "enhancement": "expressive stickman face, clear stickman figure, realistic stickman posing",
       "suffix": "expressive stickman face, simple circle head, clean white paper background"
     },
     "object": {
-      "previewImage": "images/hand-drawn-stickman/object.jpg",
       "enhancement": "simple sketchy object details, crayon colored textures, pencil sketch prop style, clean white background",
       "suffix": "clean white paper background, strictly no human figures, no hands"
     },
     "shot": {
-      "previewImage": "images/hand-drawn-stickman/shot.jpg",
       "enhancement": "clean white paper background, simple pencil sketchy outlines, hand-drawn environment details, clean minimal sketchy backdrop",
       "suffix": "simple stickman figures in scene, sketchy backdrop, educational storyboard aesthetic",
       "negativeFilter": [
@@ -35,20 +32,17 @@
     "key": "watercolor",
     "name": "Watercolor Painting",
     "description": "Soft washed watercolor, wet-on-wet texturing, and ink splatters.",
-    "previewImage": "images/watercolor/shot.jpg",
+    "previewImage": "images/watercolor/cover.jpg",
     "basePrompt": "watercolor painting illustration, soft washed colors, wet-on-wet technique, elegant paint splatters",
     "character": {
-      "previewImage": "images/watercolor/character.jpg",
       "enhancement": "expressive face watercolor details, elegant artistic watercolor character portrait",
       "suffix": "expressive artistic watercolor character portrait style"
     },
     "object": {
-      "previewImage": "images/watercolor/object.jpg",
       "enhancement": "soft watercolor wash textures, elegant watercolor paint details on object, artistic color bleeds",
       "suffix": "product design style, isolated watercolor object, strictly no human figures, no hands"
     },
     "shot": {
-      "previewImage": "images/watercolor/shot.jpg",
       "enhancement": "beautiful watercolor wash background, elegant color blending, soft textured paper, artistic wet-on-wet paint texture scenery",
       "suffix": "scenic painted environment backdrop, detailed painted scenery"
     }
@@ -57,20 +51,17 @@
     "key": "pixel-art",
     "name": "Retro Pixel Art",
     "description": "16-bit arcade video game aesthetic with vibrant limited color palettes.",
-    "previewImage": "images/pixel-art/shot.jpg",
+    "previewImage": "images/pixel-art/cover.jpg",
     "basePrompt": "16-bit retro pixel art game style, vibrant limited color palette, clean grid alignment, arcade video game aesthetic",
     "character": {
-      "previewImage": "images/pixel-art/character.jpg",
       "enhancement": "16-bit retro character sprite, detailed pixel art figure, expressive retro face",
       "suffix": "arcade video game character sprite design"
     },
     "object": {
-      "previewImage": "images/pixel-art/object.jpg",
       "enhancement": "16-bit retro pixel art prop sprite, detailed pixel asset, vibrant limited color palette",
       "suffix": "arcade video game prop item asset design, strictly no characters, no human figures, no hands"
     },
     "shot": {
-      "previewImage": "images/pixel-art/shot.jpg",
       "enhancement": "detailed 16-bit retro pixel art background, retro gaming environment, clean grid-aligned pixel scenery",
       "suffix": "detailed pixelated background scene, arcade video game screen aesthetic"
     }
@@ -79,20 +70,17 @@
     "key": "cyberpunk",
     "name": "Cyberpunk Glow",
     "description": "Neon lighting, dark synthwave tones, and high-tech details.",
-    "previewImage": "images/cyberpunk/shot.jpg",
+    "previewImage": "images/cyberpunk/cover.jpg",
     "basePrompt": "cyberpunk aesthetic illustration, vibrant neon glow highlights, volumetric atmospheric lighting, dark synthwave color palette, detailed high-tech accents",
     "character": {
-      "previewImage": "images/cyberpunk/character.jpg",
       "enhancement": "detailed character features, neon glow highlights on clothes, expressive face lights",
       "suffix": "detailed high-tech clothing and cybernetic accents"
     },
     "object": {
-      "previewImage": "images/cyberpunk/object.jpg",
       "enhancement": "neon glow accents on object, high-tech cybernetic details, futuristic prop materials, dark synthwave tech style",
       "suffix": "detailed high-tech materials and glowing circuit accents, strictly no people, no characters, no hands"
     },
     "shot": {
-      "previewImage": "images/cyberpunk/shot.jpg",
       "enhancement": "glowing neon city street backdrop, atmospheric cyber haze, futuristic environment reflections, rain-slicked streets, dark synthwave tones",
       "suffix": "detailed high-tech environment backdrop, futuristic sci-fi aesthetic"
     }
@@ -101,20 +89,17 @@
     "key": "realistic-3d",
     "name": "Realistic 3D Render",
     "description": "Photorealistic octane render details with cinematic studio lighting.",
-    "previewImage": "images/realistic-3d/shot.jpg",
+    "previewImage": "images/realistic-3d/cover.jpg",
     "basePrompt": "photorealistic 3D CGI render, octane render style, detailed textures and materials, dramatic cinematic studio lighting, high fidelity 3D art",
     "character": {
-      "previewImage": "images/realistic-3d/character.jpg",
       "enhancement": "highly detailed photorealistic character, detailed skin textures, realistic eyes, cinematic character portrait",
       "suffix": "detailed clothing fabric and skin textures, realistic eyes, cinematic character portrait"
     },
     "object": {
-      "previewImage": "images/realistic-3d/object.jpg",
       "enhancement": "highly detailed 3D object render, photorealistic textures and materials, realistic studio lighting, octane render prop asset",
       "suffix": "detailed surface textures and physical materials, dramatic cinematic studio product lighting, strictly no human figures, no people, no hands"
     },
     "shot": {
-      "previewImage": "images/realistic-3d/shot.jpg",
       "enhancement": "cinematic 3D environment scenery, volumetric atmospheric lighting, photorealistic textures, octane render style background, dramatic depth of field",
       "suffix": "detailed environment scenery and textures, dramatic cinematic depth-of-field, volumetric atmospheric studio lighting"
     }
