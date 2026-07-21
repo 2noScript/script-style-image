@@ -103,5 +103,195 @@
       "enhancement": "cinematic 3D environment scenery, volumetric atmospheric lighting, photorealistic textures, octane render style background, dramatic depth of field",
       "suffix": "detailed environment scenery and textures, dramatic cinematic depth-of-field, volumetric atmospheric studio lighting"
     }
+  },
+  {
+    "key": "pencil-sketch",
+    "name": "Graphite Pencil Sketch",
+    "description": "Hand-drawn graphite pencil drawing, fine lines, textured pencil shading, and paper grain.",
+    "previewImage": "images/pencil-sketch/cover.jpg",
+    "basePrompt": "graphite pencil sketch style, hand-drawn pencil lines, fine pencil shading, textured sketch paper background",
+    "character": {
+      "enhancement": "pencil sketch character features, fine pencil line details, shaded clothes textures",
+      "suffix": "pencil turnaround sheet, clean white paper background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "graphite pencil prop sketch, fine pencil line work, realistic pencil shading textures",
+      "suffix": "clean white paper background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "pencil sketchy background details, detailed pencil line scenery, graphite paper texture background",
+      "suffix": "sketchy landscape, detailed pencil sketch environment"
+    }
+  },
+  {
+    "key": "gothic-oil-painting",
+    "name": "Renaissance Oil Painting",
+    "description": "Dark renaissance oil painting, visible canvas texture, heavy brush strokes, and dramatic lighting.",
+    "previewImage": "images/gothic-oil-painting/cover.jpg",
+    "basePrompt": "renaissance oil painting style, fine art canvas texture, visible brush stroke textures, dramatic chiaroscuro lighting, rich deep color palette",
+    "character": {
+      "enhancement": "expressive oil painted portrait features, realistic oil paint textures, classic clothing fabrics",
+      "suffix": "character turnaround model sheet, clean dark studio backdrop, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "fine art oil painted prop detail, realistic metal and wood brush strokes",
+      "suffix": "clean dark studio backdrop, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "scenic oil painted environment backdrop, rich canvas texture scenery, dramatic sunset shadows",
+      "suffix": "scenic oil painting backdrop, classic landscape scenery"
+    }
+  },
+  {
+    "key": "claymation-3d",
+    "name": "Claymation 3D",
+    "description": "Stop-motion plasticine clay model style with fingerprint textures and soft clay materials.",
+    "previewImage": "images/claymation-3d/cover.jpg",
+    "basePrompt": "claymation style, plasticine clay model, visible clay fingerprint textures, stop-motion animation aesthetic, soft studio lighting",
+    "character": {
+      "enhancement": "plasticine clay character figure, soft clay details, simple round plasticine eyes",
+      "suffix": "character turnaround sheet, clean solid background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "molded clay prop, plasticine details, soft clay materials",
+      "suffix": "clean solid background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "molded clay environment backdrop, plasticine scenery, stop-motion camera depth of field",
+      "suffix": "claymation environment scenery, stop-motion backdrop"
+    }
+  },
+  {
+    "key": "origami-papercraft",
+    "name": "Origami Papercraft",
+    "description": "Folded paper shapes, layered paper cutouts, realistic paper textures, and drop shadows.",
+    "previewImage": "images/origami-papercraft/cover.jpg",
+    "basePrompt": "origami papercraft style, folded paper shapes, layered paper cutouts, realistic paper textures, soft drop shadows",
+    "character": {
+      "enhancement": "folded paper character model, clean origami creases, layered paper clothes",
+      "suffix": "character turnaround sheet, clean solid paper background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "origami folded paper prop, papercraft details, clean paper folds",
+      "suffix": "clean solid paper background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "layered papercraft environment backdrop, origami scenery, distinct paper cut shadows",
+      "suffix": "origami environment scenery, papercraft landscape"
+    }
+  },
+  {
+    "key": "neon-glow-blueprint",
+    "name": "Neon Blueprint",
+    "description": "Technical schematic blueprint style with glowing grid lines and technical designs.",
+    "previewImage": "images/neon-glow-blueprint/cover.jpg",
+    "basePrompt": "technical blueprint style, glowing grid lines, cyan schematic lines on dark blue background, technical architectural design",
+    "character": {
+      "enhancement": "schematic character design, glowing wireframe lines, technical details",
+      "suffix": "character turnaround sheet, dark grid background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "blueprint prop schematic, glowing wireframe details, cyan technical lines",
+      "suffix": "dark grid background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "blueprint environment layout, glowing wireframe scenery, technical grid lines",
+      "suffix": "blueprint environment scenery, schematic backdrop"
+    }
+  },
+  {
+    "key": "comic-pop-art",
+    "name": "Retro Pop Art",
+    "description": "Vintage comic book pop-art style with halftone dots, thick ink outlines, and retro color print aesthetic.",
+    "previewImage": "images/comic-pop-art/cover.jpg",
+    "basePrompt": "vintage comic book style, pop art aesthetic, halftone dot textures, thick retro ink outlines, flat color print shades",
+    "character": {
+      "enhancement": "retro comic book character design, halftone dot clothes textures, thick black outlines",
+      "suffix": "character turnaround model sheet, clean solid background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "retro comic prop asset, halftone dot shading, thick ink lines",
+      "suffix": "clean solid background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "comic book background scene, halftone dot scenery, retro cartoon backdrop",
+      "suffix": "comic book environment scenery, pop art backdrop"
+    }
+  },
+  {
+    "key": "isometric-voxel",
+    "name": "Isometric Voxel",
+    "description": "3D blocky voxel art style, isometric view angle, retro cubic pixel structures.",
+    "previewImage": "images/isometric-voxel/cover.jpg",
+    "basePrompt": "3D voxel art style, isometric view angle, blocky cubic pixel models, vibrant retro game colors, clean voxel grids",
+    "character": {
+      "enhancement": "blocky voxel character model, voxel grid details, cubic pixel clothes",
+      "suffix": "character turnaround sheet, clean blocky background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "voxel art prop asset, blocky cubic details, voxel structures",
+      "suffix": "clean blocky background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "isometric voxel environment backdrop, blocky cubic landscape, retro voxel game scenery",
+      "suffix": "isometric voxel environment, blocky landscape backdrop"
+    }
+  },
+  {
+    "key": "vintage-ink-watercolor",
+    "name": "Ink & Wash Storybook",
+    "description": "Classic children's storybook style, fine ink outlines, and light watercolor washes.",
+    "previewImage": "images/vintage-ink-watercolor/cover.jpg",
+    "basePrompt": "classic storybook illustration style, fine ink outlines, light watercolor wash coloring, vintage book paper texture",
+    "character": {
+      "enhancement": "charming storybook character illustration, delicate ink outlines, soft watercolor washes",
+      "suffix": "character turnaround sheet, clean paper background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "classic storybook prop illustration, fine ink details, soft watercolor wash",
+      "suffix": "clean paper background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "storybook environment backdrop, delicate ink scenery, soft watercolor wash landscape",
+      "suffix": "storybook landscape, classic illustration backdrop"
+    }
+  },
+  {
+    "key": "crayon-child-drawing",
+    "name": "Crayon Doodle",
+    "description": "Childlike colorful wax crayon drawings, thick texture strokes, and paper background.",
+    "previewImage": "images/crayon-child-drawing/cover.jpg",
+    "basePrompt": "wax crayon drawing style, childlike colorful doodles, thick textured crayon strokes, sketchy paper background",
+    "character": {
+      "enhancement": "childish crayon character doodle, thick colorful strokes, simple sketchy details",
+      "suffix": "turnaround drawing sheet, clean paper background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "crayon prop drawing, thick crayon strokes, childlike doodles",
+      "suffix": "clean paper background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "crayon environment scenery, colorful doodle backdrop, sketchy landscape",
+      "suffix": "crayon drawing environment, childlike doodle backdrop"
+    }
+  },
+  {
+    "key": "retro-futuristic-retrowave",
+    "name": "80s Retrowave",
+    "description": "80s outrun synthwave style, neon purple wireframe grid landscape, and glowing sun.",
+    "previewImage": "images/retro-futuristic-retrowave/cover.jpg",
+    "basePrompt": "80s outrun retrowave style, neon wireframe grid landscape, dark synthwave sky, glowing purple sun, retro futuristic neon accents",
+    "character": {
+      "enhancement": "synthwave character model, glowing neon outlines, 80s sunglasses and clothes",
+      "suffix": "character turnaround sheet, dark grid background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "retrowave prop model, glowing neon wireframe details, cybernetic synthwave accents",
+      "suffix": "dark grid background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "retrowave grid landscape, glowing cyber sun scenery, wireframe mountains backdrop",
+      "suffix": "retrowave landscape environment, neon sun backdrop"
+    }
   }
 ]
