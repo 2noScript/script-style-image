@@ -42,6 +42,11 @@ To maintain visual consistency and comparability across different artistic style
 | **1940s Noir Film** | <img src="images/noir-film-monochrome/cover.jpg" width="160" alt="1940s Noir Film" /> |
 | **Japanese Sumi-e Ink** | <img src="images/stained-ink-tattoo/cover.jpg" width="160" alt="Japanese Sumi-e Ink" /> |
 | **Low Poly Fantasy** | <img src="images/low-poly-3d/cover.jpg" width="160" alt="Low Poly Fantasy" /> |
+| **Gothic Dark Fantasy** | <img src="images/gothic-dark-fantasy/cover.jpg" width="160" alt="Gothic Dark Fantasy" /> |
+| **Felt Plush Toy** | <img src="images/felt-plush-stopmotion/cover.jpg" width="160" alt="Felt Plush Toy" /> |
+| **Digital Glitch Art** | <img src="images/glitch-cyber-art/cover.jpg" width="160" alt="Digital Glitch Art" /> |
+| **Vintage Postage Stamp** | <img src="images/vintage-postage-stamp/cover.jpg" width="160" alt="Vintage Postage Stamp" /> |
+| **Psychedelic Vision** | <img src="images/psychedelic-trippy-art/cover.jpg" width="160" alt="Psychedelic Vision" /> |
 
 ---
 
@@ -49,7 +54,7 @@ To maintain visual consistency and comparability across different artistic style
 
 ```text
 script-style-image/
-├── styles.json                        # Main preset configuration JSON
+├── styles.json                        # Main preset configuration JSON (30 presets)
 ├── README.md                          # Style previews & benchmark guide
 └── images/                            # Preview images (1:1 format)
     ├── anime-cel-shading/
@@ -60,6 +65,9 @@ script-style-image/
     ├── crayon-child-drawing/
     ├── cyberpunk/
     ├── cyberpunk-hologram/
+    ├── felt-plush-stopmotion/
+    ├── glitch-cyber-art/
+    ├── gothic-dark-fantasy/
     ├── gothic-oil-painting/
     ├── hand-drawn-stickman/
     ├── isometric-voxel/
@@ -70,11 +78,13 @@ script-style-image/
     ├── paper-cutout-3d/
     ├── pencil-sketch/
     ├── pixel-art/
+    ├── psychedelic-trippy-art/
     ├── realistic-3d/
     ├── retro-futuristic-retrowave/
     ├── stained-glass/
     ├── stained-ink-tattoo/
     ├── steampunk-vintage/
     ├── vintage-ink-watercolor/
+    ├── vintage-postage-stamp/
     └── watercolor/
 ```

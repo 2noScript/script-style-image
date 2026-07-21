@@ -483,5 +483,100 @@
       "enhancement": "low-poly fantasy landscape backdrop, geometric polygon mountains and trees, atmospheric low-poly scenery",
       "suffix": "low-poly environment scenery, polygonal landscape backdrop"
     }
+  },
+  {
+    "key": "gothic-dark-fantasy",
+    "name": "Gothic Dark Fantasy",
+    "description": "Dark eldritch aesthetic, shadowy cathedral architecture, glowing rune accents, atmospheric fog, and dark fantasy tones.",
+    "previewImage": "images/gothic-dark-fantasy/cover.jpg",
+    "basePrompt": "dark gothic fantasy illustration, dark eldritch aesthetic, shadowy cathedral arches, glowing magical runes, atmospheric fog, dramatic chiaroscuro lighting",
+    "character": {
+      "enhancement": "gothic dark fantasy character, ornate dark armor and robes, glowing eyes, intense dramatic shadow",
+      "suffix": "gothic character portrait, dark cathedral background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "dark fantasy prop artifact, glowing mystical runes, dark metal and ancient stone material",
+      "suffix": "dark altar background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "gothic dark fantasy environment, ancient stone cathedral ruins, eerie misty landscape, dramatic moonlit sky",
+      "suffix": "gothic fantasy landscape, dark ruins backdrop"
+    }
+  },
+  {
+    "key": "felt-plush-stopmotion",
+    "name": "Felt Plush Toy",
+    "description": "Handcrafted wool felt textures, soft stitched fabric seams, miniature plush toy aesthetic, stop-motion animation feel.",
+    "previewImage": "images/felt-plush-stopmotion/cover.jpg",
+    "basePrompt": "handcrafted wool felt plush style, soft stitched fabric seams, needle felted wool texture, button accents, stop-motion puppet aesthetic",
+    "character": {
+      "enhancement": "cute felt plush character doll, visible thread stitching, soft wool fabric texture, button eyes",
+      "suffix": "plush doll turnaround, craft paper background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "felt craft prop asset, stitched fabric edges, needle felted texture",
+      "suffix": "craft paper background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "miniature felt craft landscape, felted trees and cloth terrain, stop-motion set aesthetic",
+      "suffix": "felt craft environment, stop-motion puppet backdrop"
+    }
+  },
+  {
+    "key": "glitch-cyber-art",
+    "name": "Digital Glitch Art",
+    "description": "Chromatic aberration distortion, digital pixel sorting, RGB color shifts, high-tech cyber glitch aesthetic.",
+    "previewImage": "images/glitch-cyber-art/cover.jpg",
+    "basePrompt": "digital glitch art style, chromatic aberration, RGB color split distortion, pixel sorting artifacts, cyber glitch aesthetic",
+    "character": {
+      "enhancement": "glitch art character portrait, RGB chromatic split lines, digital pixel sorting distortion",
+      "suffix": "glitch character display, dark cyber background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "glitched prop schematic, digital glitch distortion, chromatic aberration accents",
+      "suffix": "dark cyber background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "digital glitch cityscape, pixel sorted environment, cybernetic chromatic distortion backdrop",
+      "suffix": "glitch environment scenery, cybernetic glitch backdrop"
+    }
+  },
+  {
+    "key": "vintage-postage-stamp",
+    "name": "Vintage Postage Stamp",
+    "description": "Engraved linocut print illustration, fine cross-hatching, retro 1950s postal stamp aesthetic, muted vintage ink colors.",
+    "previewImage": "images/vintage-postage-stamp/cover.jpg",
+    "basePrompt": "vintage postage stamp illustration style, engraved linocut print art, fine line cross-hatching, retro 1950s postal aesthetic, muted vintage ink colors",
+    "character": {
+      "enhancement": "engraved stamp character portrait, fine linocut hatching, retro postal illustration",
+      "suffix": "engraved character illustration, aged paper background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "vintage stamp prop illustration, fine linocut print details, aged paper texture",
+      "suffix": "aged paper background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "vintage postal stamp landscape backdrop, engraved scenery, fine linocut line landscape",
+      "suffix": "engraved postal landscape, retro stamp backdrop"
+    }
+  },
+  {
+    "key": "psychedelic-trippy-art",
+    "name": "Psychedelic Vision",
+    "description": "Vibrant swirling neon liquid colors, kaleidoscopic patterns, 1960s psychedelic art, surreal dreamscape aesthetics.",
+    "previewImage": "images/psychedelic-trippy-art/cover.jpg",
+    "basePrompt": "1960s psychedelic art style, vibrant swirling neon liquid colors, kaleidoscopic mandala patterns, surreal dreamscape aesthetic, high contrast trippy art",
+    "character": {
+      "enhancement": "psychedelic character illustration, swirling neon color aura, kaleidoscopic hair and outfit",
+      "suffix": "psychedelic character art, swirling color background, strictly no text, no annotations"
+    },
+    "object": {
+      "enhancement": "psychedelic prop asset, swirling neon liquid colors, trippy mandala patterns",
+      "suffix": "swirling color background, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "surreal psychedelic landscape environment, swirling rainbow clouds, kaleidoscopic dreamscape scenery",
+      "suffix": "psychedelic environment, trippy surreal backdrop"
+    }
   }
 ]
