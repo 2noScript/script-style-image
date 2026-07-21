@@ -8,11 +8,7 @@ Public repository hosting dynamic style preset configurations (`styles.json`) an
 
 To maintain visual consistency and comparability across different artistic style presets, all preview images use **1 single benchmark story**:
 
-1. **Character Raw Prompt**:
-   `brave young man explorer wearing a brown leather jacket and blue scarf`
-2. **Object Raw Prompt**:
-   `ancient ornate golden compass with glowing blue runes`
-3. **Shot Raw Prompt**:
+1. **Shot Raw Prompt**:
    `brave young man explorer holding an ancient ornate golden compass inside an ancient overgrown forest temple, sunset lighting`
 
 ---
