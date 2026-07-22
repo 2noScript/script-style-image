@@ -1,6 +1,6 @@
 # 🎨 Script Pro Style Presets & Image Repository (`script-style-image`)
 
-[![Total Styles](https://img.shields.io/badge/Presets-30%20Styles-indigo?style=for-the-badge&logo=palette)](styles.json)
+[![Total Styles](https://img.shields.io/badge/Presets-40%20Styles-indigo?style=for-the-badge&logo=palette)](styles.json)
 [![Status](https://img.shields.io/badge/Status-Active-emerald?style=for-the-badge)](styles.json)
 
 Public repository hosting dynamic style preset configurations (`styles.json`) and preview benchmark images for the Script Pro web application.
@@ -16,7 +16,7 @@ To maintain visual consistency and comparability across all artistic style prese
 
 ---
 
-## 🖼️ Style Presets Catalogue
+## 🖼️ Style Presets Catalogue (40 Presets)
 
 | # | Style Key | Style Name | Description | Image Preview |
 | :-: | :--- | :--- | :--- | :--- |
@@ -50,6 +50,16 @@ To maintain visual consistency and comparability across all artistic style prese
 | **28** | `glitch-cyber-art` | **Digital Glitch Art** | Chromatic aberration distortion, digital pixel sorting, RGB color shifts, high-tech cyber glitch aesthetic. | <img src="images/glitch-cyber-art/cover.jpg" width="130" alt="Digital Glitch Art" /> |
 | **29** | `vintage-postage-stamp` | **Vintage Postage Stamp** | Engraved linocut print illustration, fine cross-hatching, retro 1950s postal stamp aesthetic, muted vintage ink colors. | <img src="images/vintage-postage-stamp/cover.jpg" width="130" alt="Vintage Postage Stamp" /> |
 | **30** | `psychedelic-trippy-art` | **Psychedelic Vision** | Vibrant swirling neon liquid colors, kaleidoscopic patterns, 1960s psychedelic art, surreal dreamscape aesthetics. | <img src="images/psychedelic-trippy-art/cover.jpg" width="130" alt="Psychedelic Vision" /> |
+| **31** | `baroque-oil-painting` | **Baroque Masterpiece** | Dramatic chiaroscuro lighting, deep shadows, gold leaf accents, and classic oil painting texture. | <img src="images/baroque-oil-painting/cover.jpg" width="130" alt="Baroque Masterpiece" /> |
+| **32** | `synthwave-outrun-3d` | **Neon Synthwave 3D** | Vibrant 80s neon chrome, glowing wireframe grid horizon, and retro futuristic 3D render. | <img src="images/synthwave-outrun-3d/cover.jpg" width="130" alt="Neon Synthwave 3D" /> |
+| **33** | `paper-quilling-art` | **Paper Quilling Art** | Intricate coiled and rolled paper craft strips, physical layered paper depth, and tactile paper art. | <img src="images/paper-quilling-art/cover.jpg" width="130" alt="Paper Quilling Art" /> |
+| **34** | `cyber-samurai-anime` | **Cyber Samurai Anime** | High-tech futuristic cyberpunk anime aesthetic with glowing cybernetic accents and dynamic lineart. | <img src="images/cyber-samurai-anime/cover.jpg" width="130" alt="Cyber Samurai Anime" /> |
+| **35** | `clockwork-steampunk-3d` | **Clockwork Steampunk** | Intricate brass gears, polished copper mechanisms, Victorian clockwork machinery, and warm studio lighting. | <img src="images/clockwork-steampunk-3d/cover.jpg" width="130" alt="Clockwork Steampunk" /> |
+| **36** | `gothic-stained-glass` | **Gothic Cathedral Glass** | Cathedral stained glass art with rich jewel tones, glowing light filtration, and heavy black lead outlines. | <img src="images/gothic-stained-glass/cover.jpg" width="130" alt="Gothic Cathedral Glass" /> |
+| **37** | `vintage-comic-book` | **1950s Pulp Comic** | 1950s golden age pulp comic book style with vintage halftone dot matrix printing and bold ink lines. | <img src="images/vintage-comic-book/cover.jpg" width="130" alt="1950s Pulp Comic" /> |
+| **38** | `surrealist-dreamscape` | **Surrealist Dreamscape** | Salvador Dali inspired surrealist dreamscape, melting organic forms, floating geometric shapes, and ethereal sky. | <img src="images/surrealist-dreamscape/cover.jpg" width="130" alt="Surrealist Dreamscape" /> |
+| **39** | `minimalist-vector-art` | **Minimalist Flat Vector** | Modern clean vector illustration, sharp geometric shapes, bold harmonious flat color blocks, and minimal aesthetic. | <img src="images/minimalist-vector-art/cover.jpg" width="130" alt="Minimalist Flat Vector" /> |
+| **40** | `glassmorphism-3d` | **Glassmorphism 3D** | Frosted glass refractions, translucent glowing 3D shapes, vibrant neon light caustics, and sleek UI aesthetic. | <img src="images/glassmorphism-3d/cover.jpg" width="130" alt="Glassmorphism 3D" /> |
 
 ---
 
@@ -57,28 +67,35 @@ To maintain visual consistency and comparability across all artistic style prese
 
 ```text
 script-style-image/
-├── styles.json                        # Main preset configuration JSON (30 presets with order index)
+├── styles.json                        # Main preset configuration JSON (40 presets with order index)
 ├── README.md                          # Style previews & benchmark guide
-└── images/                            # Preview images (1:1 format)
+└── images/                            # Benchmark preview images (1:1 format)
     ├── anime-cel-shading/
+    ├── baroque-oil-painting/
     ├── chalkboard-sketch/
     ├── chibi-kawaii-3d/
     ├── claymation-3d/
+    ├── clockwork-steampunk-3d/
     ├── comic-pop-art/
     ├── crayon-child-drawing/
-    ├── cyberpunk/
+    ├── cyber-samurai-anime/
     ├── cyberpunk-hologram/
+    ├── cyberpunk/
     ├── felt-plush-stopmotion/
+    ├── glassmorphism-3d/
     ├── glitch-cyber-art/
     ├── gothic-dark-fantasy/
     ├── gothic-oil-painting/
+    ├── gothic-stained-glass/
     ├── hand-drawn-stickman/
     ├── isometric-voxel/
     ├── low-poly-3d/
+    ├── minimalist-vector-art/
     ├── neon-glow-blueprint/
     ├── noir-film-monochrome/
     ├── origami-papercraft/
     ├── paper-cutout-3d/
+    ├── paper-quilling-art/
     ├── pencil-sketch/
     ├── pixel-art/
     ├── psychedelic-trippy-art/
@@ -87,6 +104,9 @@ script-style-image/
     ├── stained-glass/
     ├── stained-ink-tattoo/
     ├── steampunk-vintage/
+    ├── surrealist-dreamscape/
+    ├── synthwave-outrun-3d/
+    ├── vintage-comic-book/
     ├── vintage-ink-watercolor/
     ├── vintage-postage-stamp/
     └── watercolor/

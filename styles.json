@@ -608,5 +608,205 @@
       "enhancement": "surreal psychedelic landscape environment, swirling rainbow clouds, kaleidoscopic dreamscape scenery",
       "suffix": "psychedelic environment, trippy surreal backdrop"
     }
+  },
+  {
+    "order": 31,
+    "key": "baroque-oil-painting",
+    "name": "Baroque Masterpiece",
+    "description": "Dramatic chiaroscuro lighting, deep shadows, gold leaf accents, and classic oil painting texture.",
+    "previewImage": "images/baroque-oil-painting/cover.jpg",
+    "basePrompt": "dramatic baroque oil painting style, intense chiaroscuro lighting, rich deep dark shadows, golden highlights, classical oil paint texture, gold leaf accents",
+    "character": {
+      "enhancement": "dramatic chiaroscuro lighting on face, classic baroque portrait, oil paint brushstroke texture",
+      "suffix": "dramatic chiaroscuro portrait, dark dramatic studio background"
+    },
+    "object": {
+      "enhancement": "rich gold leaf textures, dramatic directional lighting, classical baroque prop study",
+      "suffix": "isolated baroque object study, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "dramatic dark cathedral archways, warm glowing golden hour light, majestic baroque atmosphere",
+      "suffix": "dramatic oil painted environment scene, museum gallery masterpiece quality"
+    }
+  },
+  {
+    "order": 32,
+    "key": "synthwave-outrun-3d",
+    "name": "Neon Synthwave 3D",
+    "description": "Vibrant 80s neon chrome, glowing wireframe grid horizon, and retro futuristic 3D render.",
+    "previewImage": "images/synthwave-outrun-3d/cover.jpg",
+    "basePrompt": "80s synthwave outrun 3D render, glowing neon purple grid horizon, chrome reflective materials, magenta cyan neon lighting, retro futuristic synthwave aesthetic",
+    "character": {
+      "enhancement": "neon outline glow on figure, retro 80s chrome sunglasses, synthwave hero aesthetic",
+      "suffix": "retro futuristic synthwave character portrait"
+    },
+    "object": {
+      "enhancement": "glowing neon edges, chrome reflective surface, retro synthwave prop render",
+      "suffix": "isolated synthwave prop asset, strictly no characters, no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "glowing wireframe neon landscape grid, giant magenta sunset grid horizon, retrowave sky backdrop",
+      "suffix": "retro 80s synthwave horizon backdrop, outrun aesthetic"
+    }
+  },
+  {
+    "order": 33,
+    "key": "paper-quilling-art",
+    "name": "Paper Quilling Art",
+    "description": "Intricate coiled and rolled paper craft strips, physical layered paper depth, and tactile paper art.",
+    "previewImage": "images/paper-quilling-art/cover.jpg",
+    "basePrompt": "intricate paper quilling artwork, rolled and coiled colored paper strips, physical 3D papercraft depth, detailed paper filigree texture, soft studio lighting",
+    "character": {
+      "enhancement": "coiled paper strip character outline, paper filigree hair and clothes, paper quilling figure",
+      "suffix": "handmade paper quilling character portrait"
+    },
+    "object": {
+      "enhancement": "intricate coiled paper object details, rolled paper filigree texture, quilled paper prop art",
+      "suffix": "isolated paper quilling object artwork, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "layered paper quilled background scenery, coiled paper trees and architecture, 3D papercraft depth",
+      "suffix": "intricate paper quilling environment scene"
+    }
+  },
+  {
+    "order": 34,
+    "key": "cyber-samurai-anime",
+    "name": "Cyber Samurai Anime",
+    "description": "High-tech futuristic cyberpunk anime aesthetic with glowing cybernetic accents and dynamic lineart.",
+    "previewImage": "images/cyber-samurai-anime/cover.jpg",
+    "basePrompt": "cyberpunk samurai anime illustration, high-tech cybernetic armor, glowing katana neon lights, dynamic cel-shaded lineart, futuristic anime aesthetic",
+    "character": {
+      "enhancement": "cybernetic eye visor glow, detailed futuristic armor plates, expressive cyber samurai portrait",
+      "suffix": "cyberpunk anime hero character portrait"
+    },
+    "object": {
+      "enhancement": "glowing energy circuit lines, high-tech cybernetic prop materials, futuristic anime item design",
+      "suffix": "isolated cybernetic anime prop asset, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "neon-soaked rain-slicked cyberpunk alleyway, holographic billboards, futuristic metropolis backdrop",
+      "suffix": "cinematic cyberpunk anime scene"
+    }
+  },
+  {
+    "order": 35,
+    "key": "clockwork-steampunk-3d",
+    "name": "Clockwork Steampunk",
+    "description": "Intricate brass gears, polished copper mechanisms, Victorian clockwork machinery, and warm studio lighting.",
+    "previewImage": "images/clockwork-steampunk-3d/cover.jpg",
+    "basePrompt": "intricate 3D clockwork steampunk render, polished brass gears and copper cogwheels, mechanical clockwork details, warm Victorian workshop lighting",
+    "character": {
+      "enhancement": "brass clockwork goggles, leather brass vest details, Victorian inventor character",
+      "suffix": "steampunk inventor character portrait"
+    },
+    "object": {
+      "enhancement": "intricate gear mechanism, polished brass cogs, mechanical steam gauge details",
+      "suffix": "isolated clockwork mechanical prop study, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "Victorian clock tower interior, giant rotating brass gear backdrop, warm atmospheric steam lighting",
+      "suffix": "detailed clockwork machinery environment"
+    }
+  },
+  {
+    "order": 36,
+    "key": "gothic-stained-glass",
+    "name": "Gothic Cathedral Glass",
+    "description": "Cathedral stained glass art with rich jewel tones, glowing light filtration, and heavy black lead outlines.",
+    "previewImage": "images/gothic-stained-glass/cover.jpg",
+    "basePrompt": "gothic cathedral stained glass artwork, luminous translucent glass panels, rich ruby and sapphire jewel colors, thick dark lead metal outlines, back-lit glowing window effect",
+    "character": {
+      "enhancement": "gained glass heroic figure, glowing translucent glass face details, cathedral mosaic style",
+      "suffix": "stained glass cathedral mosaic character portrait"
+    },
+    "object": {
+      "enhancement": "jewel-toned stained glass prop design, translucent glass paneling, leaded metal framing",
+      "suffix": "isolated stained glass motif, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "grand gothic cathedral window frame, colorful ray of light beams, glowing stained glass scenery",
+      "suffix": "luminous gothic stained glass window backdrop"
+    }
+  },
+  {
+    "order": 37,
+    "key": "vintage-comic-book",
+    "name": "1950s Pulp Comic",
+    "description": "1950s golden age pulp comic book style with vintage halftone dot matrix printing and bold ink lines.",
+    "previewImage": "images/vintage-comic-book/cover.jpg",
+    "basePrompt": "1950s vintage golden age pulp comic book illustration, Ben-Day halftone dot texture, bold black ink outlines, aged yellowed newsprint paper, classic comic color print",
+    "character": {
+      "enhancement": "heroic retro comic expression, strong jawline lineart, halftone shaded character portrait",
+      "suffix": "vintage golden age comic hero portrait"
+    },
+    "object": {
+      "enhancement": "bold comic book ink shading, retro pulp prop design, halftone dot texture",
+      "suffix": "isolated pulp comic prop illustration, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "classic comic book action backdrop, dynamic halftone sky, retro adventure scenery",
+      "suffix": "golden age comic book panel scene"
+    }
+  },
+  {
+    "order": 38,
+    "key": "surrealist-dreamscape",
+    "name": "Surrealist Dreamscape",
+    "description": "Salvador Dali inspired surrealist dreamscape, melting organic forms, floating geometric shapes, and ethereal sky.",
+    "previewImage": "images/surrealist-dreamscape/cover.jpg",
+    "basePrompt": "surrealist dreamscape art style, Salvador Dali inspired, melting organic shapes, floating geometric elements, surreal atmosphere, dreamlike desert landscape, ethereal lighting",
+    "character": {
+      "enhancement": "dreamlike surreal character figure, ethereal floating elements, surrealist portrait",
+      "suffix": "surrealist dreamlike character portrait"
+    },
+    "object": {
+      "enhancement": "surreal distortion, melting metallic textures, floating dream object",
+      "suffix": "isolated surrealist object art, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "surreal desert horizon, floating giant geometric shapes, dreamlike sunset sky",
+      "suffix": "ethereal surrealist landscape backdrop"
+    }
+  },
+  {
+    "order": 39,
+    "key": "minimalist-vector-art",
+    "name": "Minimalist Flat Vector",
+    "description": "Modern clean vector illustration, sharp geometric shapes, bold harmonious flat color blocks, and minimal aesthetic.",
+    "previewImage": "images/minimalist-vector-art/cover.jpg",
+    "basePrompt": "clean minimalist flat vector illustration, sharp geometric shapes, bold harmonious flat color palette, elegant negative space, modern vector graphic art",
+    "character": {
+      "enhancement": "clean flat vector character silhouette, minimal face details, stylish geometric figure",
+      "suffix": "minimalist flat vector character portrait"
+    },
+    "object": {
+      "enhancement": "clean geometric vector prop shape, flat color shading, minimal product vector art",
+      "suffix": "isolated minimalist flat vector prop design, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "clean flat vector landscape, minimal geometric trees and mountains, soft flat sky gradient",
+      "suffix": "modern minimalist vector environment scene"
+    }
+  },
+  {
+    "order": 40,
+    "key": "glassmorphism-3d",
+    "name": "Glassmorphism 3D",
+    "description": "Frosted glass refractions, translucent glowing 3D shapes, vibrant neon light caustics, and sleek UI aesthetic.",
+    "previewImage": "images/glassmorphism-3d/cover.jpg",
+    "basePrompt": "glassmorphism 3D render, frosted semi-transparent glass materials, vibrant neon light refraction caustics, sleek modern UI aesthetic, smooth 3D render depth",
+    "character": {
+      "enhancement": "translucent frosted glass armor accents, glowing light refraction, sleek glassmorphism character",
+      "suffix": "glassmorphism 3D character portrait"
+    },
+    "object": {
+      "enhancement": "frosted glass prop material, translucent color refraction, sleek 3D glass product render",
+      "suffix": "isolated glassmorphic 3D prop render, strictly no human figures, no hands"
+    },
+    "shot": {
+      "enhancement": "floating frosted glass geometry background, vibrant ambient neon light refractions, soft gradient studio backdrop",
+      "suffix": "modern glassmorphic 3D environment backdrop"
+    }
   }
 ]
