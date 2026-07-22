@@ -1,5 +1,6 @@
 [
   {
+    "order": 1,
     "key": "hand-drawn-stickman",
     "name": "Hand-drawn Stickman",
     "description": "Hand-drawn sketch colored with pencils, featuring imperfect sketchy outlines and realistic coloring textures.",
@@ -29,6 +30,7 @@
     }
   },
   {
+    "order": 2,
     "key": "watercolor",
     "name": "Watercolor Painting",
     "description": "Soft washed watercolor, wet-on-wet texturing, and ink splatters.",
@@ -48,6 +50,7 @@
     }
   },
   {
+    "order": 3,
     "key": "pixel-art",
     "name": "Retro Pixel Art",
     "description": "16-bit arcade video game aesthetic with vibrant limited color palettes.",
@@ -67,6 +70,7 @@
     }
   },
   {
+    "order": 4,
     "key": "cyberpunk",
     "name": "Cyberpunk Glow",
     "description": "Neon lighting, dark synthwave tones, and high-tech details.",
@@ -86,6 +90,7 @@
     }
   },
   {
+    "order": 5,
     "key": "realistic-3d",
     "name": "Realistic 3D Render",
     "description": "Photorealistic octane render details with cinematic studio lighting.",
@@ -105,6 +110,7 @@
     }
   },
   {
+    "order": 6,
     "key": "pencil-sketch",
     "name": "Graphite Pencil Sketch",
     "description": "Hand-drawn graphite pencil drawing, fine lines, textured pencil shading, and paper grain.",
@@ -124,6 +130,7 @@
     }
   },
   {
+    "order": 7,
     "key": "gothic-oil-painting",
     "name": "Renaissance Oil Painting",
     "description": "Dark renaissance oil painting, visible canvas texture, heavy brush strokes, and dramatic lighting.",
@@ -143,6 +150,7 @@
     }
   },
   {
+    "order": 8,
     "key": "claymation-3d",
     "name": "Claymation 3D",
     "description": "Stop-motion plasticine clay model style with fingerprint textures and soft clay materials.",
@@ -162,6 +170,7 @@
     }
   },
   {
+    "order": 9,
     "key": "origami-papercraft",
     "name": "Origami Papercraft",
     "description": "Folded paper shapes, layered paper cutouts, realistic paper textures, and drop shadows.",
@@ -181,6 +190,7 @@
     }
   },
   {
+    "order": 10,
     "key": "neon-glow-blueprint",
     "name": "Neon Blueprint",
     "description": "Technical schematic blueprint style with glowing grid lines and technical designs.",
@@ -200,6 +210,7 @@
     }
   },
   {
+    "order": 11,
     "key": "comic-pop-art",
     "name": "Retro Pop Art",
     "description": "Vintage comic book pop-art style with halftone dots, thick ink outlines, and retro color print aesthetic.",
@@ -219,6 +230,7 @@
     }
   },
   {
+    "order": 12,
     "key": "isometric-voxel",
     "name": "Isometric Voxel",
     "description": "3D blocky voxel art style, isometric view angle, retro cubic pixel structures.",
@@ -238,6 +250,7 @@
     }
   },
   {
+    "order": 13,
     "key": "vintage-ink-watercolor",
     "name": "Ink & Wash Storybook",
     "description": "Classic children's storybook style, fine ink outlines, and light watercolor washes.",
@@ -257,6 +270,7 @@
     }
   },
   {
+    "order": 14,
     "key": "crayon-child-drawing",
     "name": "Crayon Doodle",
     "description": "Childlike colorful wax crayon drawings, thick texture strokes, and paper background.",
@@ -276,6 +290,7 @@
     }
   },
   {
+    "order": 15,
     "key": "retro-futuristic-retrowave",
     "name": "80s Retrowave",
     "description": "80s outrun synthwave style, neon purple wireframe grid landscape, and glowing sun.",
@@ -295,6 +310,7 @@
     }
   },
   {
+    "order": 16,
     "key": "anime-cel-shading",
     "name": "Anime Cel Shading",
     "description": "Vibrant japanese anime style, clean lineart, soft cel shading, cinematic atmospheric lighting, Studio Ghibli & Shinkai inspired.",
@@ -314,6 +330,7 @@
     }
   },
   {
+    "order": 17,
     "key": "steampunk-vintage",
     "name": "Victorian Steampunk",
     "description": "19th century industrial steampunk, brass gears, steam copper pipes, polished leather, and warm vintage sepia tones.",
@@ -333,6 +350,7 @@
     }
   },
   {
+    "order": 18,
     "key": "stained-glass",
     "name": "Cathedral Stained Glass",
     "description": "Gothic cathedral stained glass window style with glowing glass panels, dark lead metal outlines, and rich jewel colors.",
@@ -352,6 +370,7 @@
     }
   },
   {
+    "order": 19,
     "key": "paper-cutout-3d",
     "name": "Layered Paper Cutout",
     "description": "Multi-layered paper cutout art, 3D papercraft depth, soft volumetric shadows, clean pastel colors.",
@@ -371,6 +390,7 @@
     }
   },
   {
+    "order": 20,
     "key": "cyberpunk-hologram",
     "name": "Digital Hologram Matrix",
     "description": "Glowing cyan holographic projection, semi-transparent matrix glitch grid, digital scanlines, futuristic UI.",
@@ -390,6 +410,7 @@
     }
   },
   {
+    "order": 21,
     "key": "chalkboard-sketch",
     "name": "Pastel Chalkboard Art",
     "description": "White and pastel chalk drawings on dark dusty black chalkboard texture, hand-drawn educational art.",
@@ -409,6 +430,7 @@
     }
   },
   {
+    "order": 22,
     "key": "chibi-kawaii-3d",
     "name": "Chibi Kawaii 3D",
     "description": "Cute chibi proportions, large glossy eyes, soft pastel plastic toy materials, smooth 3D clay-toy render.",
@@ -428,6 +450,7 @@
     }
   },
   {
+    "order": 23,
     "key": "noir-film-monochrome",
     "name": "1940s Noir Film",
     "description": "High-contrast 1940s black & white film noir, dramatic Venetian blind shadows, moody atmospheric smoke and grain.",
@@ -447,6 +470,7 @@
     }
   },
   {
+    "order": 24,
     "key": "stained-ink-tattoo",
     "name": "Japanese Sumi-e Ink",
     "description": "Traditional Japanese Sumi-e brush ink strokes, fluid black ink washes, woodblock print texture, red stamp accent.",
@@ -466,6 +490,7 @@
     }
   },
   {
+    "order": 25,
     "key": "low-poly-3d",
     "name": "Low Poly Fantasy",
     "description": "Geometric faceted low-poly 3D models, clean sharp edges, vibrant gradient lighting, modern indie game aesthetic.",
@@ -485,6 +510,7 @@
     }
   },
   {
+    "order": 26,
     "key": "gothic-dark-fantasy",
     "name": "Gothic Dark Fantasy",
     "description": "Dark eldritch aesthetic, shadowy cathedral architecture, glowing rune accents, atmospheric fog, and dark fantasy tones.",
@@ -504,6 +530,7 @@
     }
   },
   {
+    "order": 27,
     "key": "felt-plush-stopmotion",
     "name": "Felt Plush Toy",
     "description": "Handcrafted wool felt textures, soft stitched fabric seams, miniature plush toy aesthetic, stop-motion animation feel.",
@@ -523,6 +550,7 @@
     }
   },
   {
+    "order": 28,
     "key": "glitch-cyber-art",
     "name": "Digital Glitch Art",
     "description": "Chromatic aberration distortion, digital pixel sorting, RGB color shifts, high-tech cyber glitch aesthetic.",
@@ -542,6 +570,7 @@
     }
   },
   {
+    "order": 29,
     "key": "vintage-postage-stamp",
     "name": "Vintage Postage Stamp",
     "description": "Engraved linocut print illustration, fine cross-hatching, retro 1950s postal stamp aesthetic, muted vintage ink colors.",
@@ -561,6 +590,7 @@
     }
   },
   {
+    "order": 30,
     "key": "psychedelic-trippy-art",
     "name": "Psychedelic Vision",
     "description": "Vibrant swirling neon liquid colors, kaleidoscopic patterns, 1960s psychedelic art, surreal dreamscape aesthetics.",
